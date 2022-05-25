@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xfgFYUHx0yBZCavRXf+vK6iEQzdBkTPCl83VdW8zFOcAAf0rzhJP8sW3MTpYd81KohQZ4D83oxKirpXmEWM5AQ==",
+  "dgSpecHash": "m7hbQde64F+it1+FVNAfDI/XlNOwUzJxqDGAr6ZIQQ8qBR5biYmtA9eQDQxExcjkOb6K3VZvk3aAu/P15hxt3Q==",
   "success": true,
-  "projectFilePath": "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC07Documentar_manutençãoEmaplicação_web\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC07Documentar_manutençãoEmaplicação_web\\testeGithub\\Biblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jairo\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\jairo\\.nuget\\packages\\microsoft.entityframeworkcore\\3.0.0\\microsoft.entityframeworkcore.3.0.0.nupkg.sha512",

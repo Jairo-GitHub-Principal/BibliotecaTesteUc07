@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC07Documentar_manutençãoEmaplicação_web\\Biblioteca\\Biblioteca.csproj": {}
+    "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC07Documentar_manutençãoEmaplicação_web\\testeGithub\\Biblioteca.csproj": {}
   },
   "projects": {
-    "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC07Documentar_manutençãoEmaplicação_web\\Biblioteca\\Biblioteca.csproj": {
+    "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC07Documentar_manutençãoEmaplicação_web\\testeGithub\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC07Documentar_manutençãoEmaplicação_web\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC07Documentar_manutençãoEmaplicação_web\\testeGithub\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC07Documentar_manutençãoEmaplicação_web\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC07Documentar_manutençãoEmaplicação_web\\testeGithub\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\jairo\\.nuget\\packages\\",
-        "outputPath": "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC07Documentar_manutençãoEmaplicação_web\\Biblioteca\\obj\\",
+        "outputPath": "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC07Documentar_manutençãoEmaplicação_web\\testeGithub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jairo\\AppData\\Roaming\\NuGet\\NuGet.Config"
